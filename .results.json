@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2022-08-15T12:59:53.430Z",
-    "end": "2022-08-15T12:59:53.714Z",
-    "duration": 284
+    "start": "2022-08-16T06:38:30.140Z",
+    "end": "2022-08-16T06:38:30.567Z",
+    "duration": 427
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
